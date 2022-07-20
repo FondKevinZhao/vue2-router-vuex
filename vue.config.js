@@ -1,4 +1,5 @@
 module.exports = {
+  publicPath: '.',
   devServer: {
     proxy: {
       // 网易新闻的接口
