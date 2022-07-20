@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{"8ab4":function(t,n,s){"use strict";s.r(n);var u=function(){var t=this;t._self._c;return t._m(0)},a=[function(){var t=this,n=t._self._c;return n("div",{staticClass:"about"},[n("h1",[t._v("个人中心界面")])])}],c=s("2877"),e={},i=Object(c["a"])(e,u,a,!1,null,null,null);n["default"]=i.exports}}]);
+//# sourceMappingURL=about.22bbd8e8.js.map
