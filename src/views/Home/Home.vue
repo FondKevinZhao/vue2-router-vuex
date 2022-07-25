@@ -1,7 +1,9 @@
 <template>
   <div class="home">
     <!-- 1. 轮播图 -->
-    <Banner :banner="banner"></Banner>
+    <keep-alive>
+      <Banner :banner="banner"></Banner>
+    </keep-alive>
 
     <!-- 2. 蓝莓酱 -- 因为这个有分页 -->
     <Lanmei :list="list"></Lanmei>
