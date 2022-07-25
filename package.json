@@ -5,8 +5,8 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist -r https://github.com/FondKevinZhao/vue2-router-vuex.git -b gh-pages"
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d dist -r git@github.com:FondKevinZhao/vue2-router-vuex.git -b gh-pages1"
   },
   "dependencies": {
     "axios": "^0.27.2",
